@@ -1,0 +1,16 @@
+C:\vstoshortpaths\differences\differences\bin\Release\differences.exe
+C:\vstoshortpaths\differences\differences\bin\Release\differences.pdb
+C:\vstoshortpaths\differences\differences\bin\Release\System.Data.SqlServerCe.dll
+C:\vstoshortpaths\differences\differences\obj\x86\Release\Client.csproj.AssemblyReference.cache
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.choosepix.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.congrats.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.findDiffs.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.Form1.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\GeneticPaint.Form2.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.Form3.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.Properties.Resources.resources
+C:\vstoshortpaths\differences\differences\obj\x86\Release\Client.csproj.GenerateResource.cache
+C:\vstoshortpaths\differences\differences\obj\x86\Release\Client.csproj.CoreCompileInputs.cache
+C:\vstoshortpaths\differences\differences\obj\x86\Release\Client.csproj.CopyComplete
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.exe
+C:\vstoshortpaths\differences\differences\obj\x86\Release\differences.pdb
