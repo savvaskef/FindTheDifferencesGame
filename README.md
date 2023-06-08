@@ -9,7 +9,7 @@ Once the app loads</br>
 you have the choice to navigate</br>
 to the Player or the Editor</br>
 <hr>
-Editor adds to the database</br>
+Editor adds to the MS-SQL Compact CE database</br>
 the differencess' location of a given set of pictures</br>
 by drawing rectangles on the picture</br>
 </br>
